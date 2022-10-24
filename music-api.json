@@ -1,10 +1,19 @@
 {
-	"tubidyofficial_musicdownloader_downloaderapp": [{
+	"mp4videodownloader_ultimate_videodownloader": [{
             "adNetwork": "IronSource",
             "admob_banner": "ca-app-pub-3940256099942544/6300978111",
             "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
             "new_package_name" : "null",
             "send_update" : false
+        }
+
+    ],
+	"tubidyofficial_musicdownloader_downloaderapp": [{
+            "adNetwork": "IronSource",
+            "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+            "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+            "new_package_name" : "videoder.officialvideoder.mp4videodownloader",
+            "send_update" : true
         }
 
     ],
@@ -41,15 +50,6 @@
             "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
             "new_package_name" : "null",
             "send_update" : false
-        }
-
-    ],
-	 "snaptube_officialsnaptube_mp4videodownloader": [{
-            "adNetwork": "IronSource",
-            "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-            "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-            "new_package_name" : "videoder.officialvideoder.mp4videodownloader",
-            "send_update" : true
         }
 
     ],
