@@ -219,7 +219,7 @@
     {
       "Id": "38",
       "ArtistName": "Bruno Mars",
-      "CoverURL": "https://themontclarion.org/wp-content/uploads/2016/11/bruno-disco.jpg",
+      "CoverURL": "https://upload.wikimedia.org/wikipedia/en/2/2b/Bruno_Mars_-_24K_Magic_%28Official_Album_Cover%29.png",
       "Date": "2023-01-12"
     },
     {
@@ -231,7 +231,7 @@
     {
       "Id": "40",
       "ArtistName": "George Michael",
-      "CoverURL": "https://upload.wikimedia.org/wikipedia/en/7/7e/George_Michael_-_Older_album_cover.png",
+      "CoverURL": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwMzQ0MTQ5NjI5NzQwOTA4/george-michael-306600-2-raw.jpg",
       "Date": "2023-01-12"
     },
     {
@@ -243,7 +243,7 @@
     {
       "Id": "42",
       "ArtistName": "Ed Sheeran",
-      "CoverURL": "https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png",
+      "CoverURL": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTM5ODkxNzYyODU1NDIwOTM4/ed-sheeran-gettyimages-494227430_1600jpg.jpg",
       "Date": "2023-01-12"
     },
     {
@@ -307,12 +307,6 @@
       "Date": "2023-01-11"
     },
     {
-      "Id": "20",
-      "ArtistName": "Pop Smoke",
-      "CoverURL": "https://static.qobuz.com/images/covers/nc/de/snyeawcypdenc_600.jpg",
-      "Date": "2023-01-11"
-    },
-    {
       "Id": "21",
       "ArtistName": "Drake",
       "CoverURL": "https://images.genius.com/5ae27f65511b22280120d4b8ed16974d.960x960x1.jpg",
@@ -333,7 +327,7 @@
     {
       "Id": "24",
       "ArtistName": "Wiz Khalifa",
-      "CoverURL": "https://townsquare.media/site/625/files/2012/08/wiz-khalifa-456-8812.jpg?w=980&amp;q=75",
+      "CoverURL": "https://www.fan-lexikon.de/musik/wiz-khalifa/bilder/l/wiz-khalifa-blacc-hollywood-album-cover-17377.jpg",
       "Date": "2023-01-11"
     },
     {
@@ -481,12 +475,6 @@
       "Date": "2023-01-11"
     },
     {
-      "Id": "49",
-      "ArtistName": "The Notorious B.I.G.",
-      "CoverURL": "https://www.biography.com/.image/t_share/MTQ3Mzg2NDU3NDMzMDU2OTUx/biggie_smalls_photo_by_clarence_davis_new_york_daily_news_archive_getty_97348258.jpg",
-      "Date": "2023-01-11"
-    },
-    {
       "Id": "50",
       "ArtistName": "J. Cole",
       "CoverURL": "https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a",
@@ -495,7 +483,7 @@
     {
       "Id": "51",
       "ArtistName": "50 Cent",
-      "CoverURL": "https://upload.wikimedia.org/wikipedia/en/1/12/50_Cent_-_In_Da_Club_-_CD_cover.jpg",
+      "CoverURL": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5ODc2NDMxMTgwODY3MTgz/gettyimages-1203069033.jpg",
       "Date": "2023-01-11"
     },
     {
@@ -650,7 +638,7 @@
     },
     {
       "Id": "80",
-      "ArtistName": "Jadakiss",
+      "ArtistName": "Jadakiss ",
       "CoverURL": "https://upload.wikimedia.org/wikipedia/en/4/4e/The_Last_Kiss_Cover.jpg",
       "Date": "2023-01-26"
     },
@@ -1053,14 +1041,14 @@
     {
       "Id": "30",
       "ArtistName": "AC/DC",
-      "CoverURL": "http://farm4.static.flickr.com/3061/2773649895_f40c1c0dae.jpg",
+      "CoverURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/ACDC_-_Shot_in_the_Dark.jpg/220px-ACDC_-_Shot_in_the_Dark.jpg",
       "Date": "2023-01-26"
     },
     {
-      "Id": "31",
-      "ArtistName": "Guns N Roses",
-      "CoverURL": "https://cdn.ontourmedia.io/gunsnroses/site_v2/animations/gnr_loop_logo_01.jpg",
-      "Date": "2023-01-30"
+      "Id": "34",
+      "ArtistName": "Guns N' Roses",
+      "CoverURL": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c",
+      "Date": "2023-01-29"
     },
     {
       "Id": "1",
@@ -1208,9 +1196,15 @@
     },
     {
       "Id": "7",
-      "ArtistName": "Lofi",
+      "ArtistName": "Lofi Music",
       "CoverURL": "https://i.scdn.co/image/ab67616d0000b27350f17409fbcc6745f02d017c",
       "Date": "2023-01-19"
+    },
+    {
+      "Id": "15",
+      "ArtistName": "Hans Zimmer",
+      "CoverURL": "https://images-na.ssl-images-amazon.com/images/I/51uPCfQh1kL._SS500.jpg",
+      "Date": "2023-01-27"
     }
   ],
   "Top_Global": [
@@ -1433,7 +1427,7 @@
     {
       "Id": "38",
       "ArtistName": "Bruno Mars",
-      "CoverURL": "https://themontclarion.org/wp-content/uploads/2016/11/bruno-disco.jpg",
+      "CoverURL": "https://upload.wikimedia.org/wikipedia/en/2/2b/Bruno_Mars_-_24K_Magic_%28Official_Album_Cover%29.png",
       "Date": "2023-01-12"
     },
     {
@@ -1445,7 +1439,7 @@
     {
       "Id": "40",
       "ArtistName": "George Michael",
-      "CoverURL": "https://upload.wikimedia.org/wikipedia/en/7/7e/George_Michael_-_Older_album_cover.png",
+      "CoverURL": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwMzQ0MTQ5NjI5NzQwOTA4/george-michael-306600-2-raw.jpg",
       "Date": "2023-01-12"
     },
     {
@@ -1457,7 +1451,7 @@
     {
       "Id": "42",
       "ArtistName": "Ed Sheeran",
-      "CoverURL": "https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png",
+      "CoverURL": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTM5ODkxNzYyODU1NDIwOTM4/ed-sheeran-gettyimages-494227430_1600jpg.jpg",
       "Date": "2023-01-12"
     },
     {
@@ -1523,12 +1517,6 @@
       "Date": "2023-01-11"
     },
     {
-      "Id": "20",
-      "ArtistName": "Pop Smoke",
-      "CoverURL": "https://static.qobuz.com/images/covers/nc/de/snyeawcypdenc_600.jpg",
-      "Date": "2023-01-11"
-    },
-    {
       "Id": "21",
       "ArtistName": "Drake",
       "CoverURL": "https://images.genius.com/5ae27f65511b22280120d4b8ed16974d.960x960x1.jpg",
@@ -1549,7 +1537,7 @@
     {
       "Id": "24",
       "ArtistName": "Wiz Khalifa",
-      "CoverURL": "https://townsquare.media/site/625/files/2012/08/wiz-khalifa-456-8812.jpg?w=980&amp;q=75",
+      "CoverURL": "https://www.fan-lexikon.de/musik/wiz-khalifa/bilder/l/wiz-khalifa-blacc-hollywood-album-cover-17377.jpg",
       "Date": "2023-01-11"
     },
     {
@@ -1697,12 +1685,6 @@
       "Date": "2023-01-11"
     },
     {
-      "Id": "49",
-      "ArtistName": "The Notorious B.I.G.",
-      "CoverURL": "https://www.biography.com/.image/t_share/MTQ3Mzg2NDU3NDMzMDU2OTUx/biggie_smalls_photo_by_clarence_davis_new_york_daily_news_archive_getty_97348258.jpg",
-      "Date": "2023-01-11"
-    },
-    {
       "Id": "50",
       "ArtistName": "J. Cole",
       "CoverURL": "https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a",
@@ -1711,7 +1693,7 @@
     {
       "Id": "51",
       "ArtistName": "50 Cent",
-      "CoverURL": "https://upload.wikimedia.org/wikipedia/en/1/12/50_Cent_-_In_Da_Club_-_CD_cover.jpg",
+      "CoverURL": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5ODc2NDMxMTgwODY3MTgz/gettyimages-1203069033.jpg",
       "Date": "2023-01-11"
     },
     {
@@ -1866,7 +1848,7 @@
     },
     {
       "Id": "80",
-      "ArtistName": "Jadakiss",
+      "ArtistName": "Jadakiss ",
       "CoverURL": "https://upload.wikimedia.org/wikipedia/en/4/4e/The_Last_Kiss_Cover.jpg",
       "Date": "2023-01-26"
     }
@@ -2273,14 +2255,14 @@
     {
       "Id": "30",
       "ArtistName": "AC/DC",
-      "CoverURL": "http://farm4.static.flickr.com/3061/2773649895_f40c1c0dae.jpg",
+      "CoverURL": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/ACDC_-_Shot_in_the_Dark.jpg/220px-ACDC_-_Shot_in_the_Dark.jpg",
       "Date": "2023-01-26"
     },
     {
-      "Id": "31",
-      "ArtistName": "Guns N Roses",
-      "CoverURL": "https://cdn.ontourmedia.io/gunsnroses/site_v2/animations/gnr_loop_logo_01.jpg",
-      "Date": "2023-01-30"
+      "Id": "34",
+      "ArtistName": "Guns N' Roses",
+      "CoverURL": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c",
+      "Date": "2023-01-29"
     }
   ],
   "Africa_Hits": [
@@ -2432,9 +2414,15 @@
     },
     {
       "Id": "7",
-      "ArtistName": "Lofi",
+      "ArtistName": "Lofi Music",
       "CoverURL": "https://i.scdn.co/image/ab67616d0000b27350f17409fbcc6745f02d017c",
       "Date": "2023-01-19"
+    },
+    {
+      "Id": "15",
+      "ArtistName": "Hans Zimmer",
+      "CoverURL": "https://images-na.ssl-images-amazon.com/images/I/51uPCfQh1kL._SS500.jpg",
+      "Date": "2023-01-27"
     }
   ]
 }
