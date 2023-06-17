@@ -1,8 +1,8 @@
 {
   "com_ultimate_mp3music_downloader": [{
 		"new_package_name": "null",
-		"send_update": true ,
-		"ad_network": "AdMob",
+		"send_update": false ,
+		"ad_network": "IronSource",
 		"admob_interstitial": "",
 		"admob_banner": ""
 	}],
