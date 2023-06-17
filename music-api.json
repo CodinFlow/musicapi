@@ -1,7 +1,7 @@
 {
   "com_ultimate_mp3music_downloader": [{
 		"new_package_name": "null",
-		"send_update": "true",
+		"send_update": true ,
 		"ad_network": "AdMob",
 		"admob_interstitial": "",
 		"admob_banner": ""
