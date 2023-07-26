@@ -1,11 +1,20 @@
 {
-	"videoderofficial.ultimatedownloader.mp4videodownloader": [
+"tubidy.mp3.musicdownloader": [
     {
     "new_package_name": "null",
     "send_update": false ,
     "ad_network": "IronSource",
     "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
     "admob_banner": "ca-app-pub-3940256099942544/6300978111"
+  }
+],
+"videoderofficial.ultimatedownloader.mp4videodownloader": [
+    {
+    "new_package_name": "null",
+    "send_update": false ,
+    "ad_network": "AdMob",
+    "admob_interstitial": "ca-app-pub-7068471689740158/8481678257",
+    "admob_banner": "ca-app-pub-7068471689740158/2376021634"
   }
 ],
   "de_mp3songs_mp3music_downloader": [{
