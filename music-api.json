@@ -12,6 +12,7 @@
     "tubidy.mp3.musicdownloader": [
         {
         "new_package_name": "null",
+        "is_live": true,
         "send_update": false ,
         "ad_network": "IronSource",
         "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
