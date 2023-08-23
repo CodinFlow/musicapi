@@ -4,9 +4,9 @@
           "new_package_name": "null",
           "is_live": true,
           "send_update": false,
-          "ad_network": "IronSource",
-          "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-          "admob_banner": "ca-app-pub-3940256099942544/6300978111"
+          "ad_network": "AdMob",
+          "admob_interstitial": "ca-app-pub-7068471689740158/8328937887",
+          "admob_banner": "ca-app-pub-7068471689740158/4603662900"
         }
       ],	
     "tubidy.mp3.musicdownloader": [
@@ -14,9 +14,9 @@
         "new_package_name": "null",
         "is_live": true,
         "send_update": false ,
-        "ad_network": "IronSource",
-        "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "admob_banner": "ca-app-pub-3940256099942544/6300978111"
+        "ad_network": "AdMob",
+        "admob_interstitial": "ca-app-pub-7068471689740158/8168584960",
+        "admob_banner": "ca-app-pub-7068471689740158/6824284529"
       }
     ],
     "videoderofficial.ultimatedownloader.mp4videodownloader": [
