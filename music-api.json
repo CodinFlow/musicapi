@@ -1,4 +1,14 @@
 {
+    "cl.ultimate.mp3music.downloader": [
+        {
+          "new_package_name": "null",
+          "is_live": true,
+          "send_update": true,
+          "ad_network": "IronSource",
+          "admob_interstitial": "ca-app-pub-7068471689740158/8328937887",
+          "admob_banner": "ca-app-pub-7068471689740158/4603662900"
+        }
+      ],	
     "videoderofficial.videoderdownloaderapp.mp4videodownloader": [
         {
           "new_package_name": "null",
