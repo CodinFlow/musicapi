@@ -3,7 +3,7 @@
         {
           "new_package_name": "null",
           "is_live": true,
-          "send_update": true,
+          "send_update": false,
           "ad_network": "IronSource",
           "admob_interstitial": "ca-app-pub-7068471689740158/8328937887",
           "admob_banner": "ca-app-pub-7068471689740158/4603662900"
