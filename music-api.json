@@ -41,7 +41,7 @@
     ],
     "videoderofficial.ultimatedownloader.mp4videodownloader": [
         {
-        "new_package_name": "tubidy.mp3.musicdownloader",
+        "new_package_name": "null",
         "send_update": false ,
         "ad_network": "AdMob",
         "admob_interstitial": "ca-app-pub-7068471689740158/8481678257",
@@ -49,7 +49,7 @@
       }
     ],
       "de_mp3songs_mp3music_downloader": [{
-            "new_package_name": "tubidy.mp3.musicdownloader",
+            "new_package_name": "null",
             "send_update": false ,
             "ad_network": "AdMob",
             "admob_interstitial": "ca-app-pub-7068471689740158/8400496201",
