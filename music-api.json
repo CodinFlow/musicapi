@@ -2,7 +2,7 @@
      "com.tubeplay.mp3musicdownloader": [
         {
           "new_package_name": "null",
-          "store_name": "Tube+Video+Downloader+-+Media+Downloader",
+          "store_name": "Unknown",
           "send_update": false,
           "ad_network": "AdMob",
           "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -12,9 +12,9 @@
      "tubidy.tubeplay.mp3musicdownloader": [
         {
           "new_package_name": "null",
-          "store_name": "Unknown",
+          "store_name": "Tube+Video+Downloader+-+Media+Downloader",
           "send_update": false,
-          "ad_network": "Ironsource",
+          "ad_network": "AdMob",
           "admob_interstitial": "ca-app-pub-7068471689740158/6258559691",
           "admob_banner": "ca-app-pub-7068471689740158/7678672328"
          
