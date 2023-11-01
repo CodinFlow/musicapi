@@ -2,9 +2,9 @@
      "com.tubeplay.mp3musicdownloader": [
         {
           "new_package_name": "null",
-          "store_name": "Unknown",
+          "store_name": "Ultimate+Video+Downloader+-+Media+Player",
           "send_update": false,
-          "ad_network": "AdMob",
+          "ad_network": "IronSource",
           "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
           "admob_banner": "ca-app-pub-3940256099942544/6300978111"
         }
