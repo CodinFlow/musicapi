@@ -14,26 +14,17 @@
           "new_package_name": "null",
           "store_name": "Tube+Video+Downloader+-+Media+Downloader",
           "send_update": false,
-          "ad_network": "AdMob",
+          "ad_network": "IronSource",
           "admob_interstitial": "ca-app-pub-7068471689740158/6258559691",
           "admob_banner": "ca-app-pub-7068471689740158/7678672328"
          
-        }
-      ],	
-    "tube.music.mp3music.downloader": [
-        {
-          "new_package_name": "tubidy.mp3.musicdownloader",
-          "send_update": true,
-          "ad_network": "Ironsource",
-          "admob_interstitial": "ca-app-pub-7068471689740158/9106636816",
-          "admob_banner": "ca-app-pub-7068471689740158/6834615127"
         }
       ],	
     "videoderofficial.videoderdownloaderapp.mp4videodownloader": [
         {
           "new_package_name": "null",
           "send_update": false,
-          "ad_network": "AdMob",
+          "ad_network": "IronSource",
           "admob_interstitial": "ca-app-pub-7068471689740158/8328937887",
           "admob_banner": "ca-app-pub-7068471689740158/4603662900"
         }
@@ -42,27 +33,11 @@
         {
         "new_package_name": "null",
         "send_update": false ,
-        "ad_network": "AdMob",
+        "ad_network": "IronSource",
         "admob_interstitial": "ca-app-pub-7068471689740158/8168584960",
         "admob_banner": "ca-app-pub-7068471689740158/6824284529"
       }
     ],
-    "videoderofficial.ultimatedownloader.mp4videodownloader": [
-        {
-        "new_package_name": "tubidy.mp3.musicdownloader",
-        "send_update": true ,
-        "ad_network": "Ironsource",
-        "admob_interstitial": "ca-app-pub-7068471689740158/8481678257",
-        "admob_banner": "ca-app-pub-7068471689740158/2376021634"
-      }
-    ],
-      "de_mp3songs_mp3music_downloader": [{
-            "new_package_name": "tubidy.mp3.musicdownloader",
-            "send_update": true ,
-            "ad_network": "IronSource",
-            "admob_interstitial": "ca-app-pub-7068471689740158/8400496201",
-            "admob_banner": "ca-app-pub-7068471689740158/6300946471"
-        }],
       "auto_complete_songs": [
         {
           "Id": "1",
