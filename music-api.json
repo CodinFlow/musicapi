@@ -45,9 +45,9 @@
         "new_package_name": "null",
         "store_name": "Video+Downloader+-+Videoder+Official",
         "send_update": false ,
-        "ad_network": "AdMob",
-        "admob_interstitial": "ca-app-pub-7068471689740158/8168584960",
-        "admob_banner": "ca-app-pub-7068471689740158/6824284529",
+        "ad_network": "Ironsource",
+        "admob_interstitial": "",
+        "admob_banner": "",
         "ironsource_app_key" : "1c9f6931d"
       }
     ],
