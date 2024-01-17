@@ -65,9 +65,9 @@
       ],	
     "tubidy.mp3.musicdownloader": [
         {
-        "new_package_name": "null",
+        "new_package_name": "itube.tubeplay.mp4videodownloader",
         "store_name": "Video+Downloader+-+Videoder+Official",
-        "send_update": false ,
+        "send_update": true ,
         "ad_network": "AdMob",
         "admob_interstitial": "ca-app-pub-7068471689740158/2630890973",
         "admob_banner": "ca-app-pub-7068471689740158/6471678033",
