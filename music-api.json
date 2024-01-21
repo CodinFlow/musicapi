@@ -2,18 +2,18 @@
          "com.itube.mp3.musicdownloader": [
         {
           "new_package_name": "null",
-          "store_name": "Unknown",
+          "store_name": "Video+Downloader+-+Videoder+Official",
           "send_update": false,
           "ad_network": "AdMob",
-          "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-          "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+          "admob_interstitial": "ca-app-pub-7068471689740158/6132177359",
+          "admob_banner": "ca-app-pub-7068471689740158/8758340697",
           "ironsource_app_key" : "1c9f6931d"
         }
       ],
         "com.tubeplay.vtube.videodownloader": [
         {
           "new_package_name": "null",
-          "store_name": "Unknown",
+          "store_name": "Ultimate+Video+Downloader+-+Media+Player",
           "send_update": false,
           "ad_network": "AdMob",
           "admob_interstitial": "ca-app-pub-7068471689740158/8205211893",
@@ -28,7 +28,7 @@
           "send_update": false,
           "ad_network": "AdMob",
           "admob_interstitial": "ca-app-pub-7068471689740158/8965262821",
-          "admob_banner": "ca-app-pub-7068471689740158/2830319068",
+          "admob_banner": "",
           "ironsource_app_key" : "1c9f6931d"
         }
       ],	
