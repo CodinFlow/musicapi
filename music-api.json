@@ -1,4 +1,15 @@
 {
+          "mp3juices.cc.mp3musicdownloader": [
+        {
+          "new_package_name": "null",
+          "store_name": "Unknown",
+          "send_update": false,
+          "ad_network": "AdMob",
+          "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+          "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+          "ironsource_app_key" : "1c9f6931d"
+        }
+      ],
          "com.itube.mp3.musicdownloader": [
         {
           "new_package_name": "null",
@@ -43,17 +54,6 @@
           "ironsource_app_key" : "1c9f6931d"
         }
       ],	
-     "com.tubeplay.mp3musicdownloader": [
-        {
-          "new_package_name": "com.tubeplay.mp3.musicdownloader",
-          "store_name": "Ultimate+Video+Downloader+-+Media+Player",
-          "send_update": true,
-          "ad_network": "AdMob",
-          "admob_interstitial": "ca-app-pub-7068471689740158/2748511329",
-          "admob_banner": "ca-app-pub-7068471689740158/2501099314",
-          "ironsource_app_key" : "1c9f6931d"
-        }
-      ],	
      "tubidy.tubeplay.mp3musicdownloader": [
         {
           "new_package_name": "null",
@@ -74,17 +74,6 @@
           "admob_banner": "ca-app-pub-7068471689740158/4603662900"
         }
       ],	
-    "tubidy.mp3.musicdownloader": [
-        {
-        "new_package_name": "itube.tubeplay.mp4videodownloader",
-        "store_name": "Video+Downloader+-+Videoder+Official",
-        "send_update": true ,
-        "ad_network": "AdMob",
-        "admob_interstitial": "ca-app-pub-7068471689740158/2630890973",
-        "admob_banner": "ca-app-pub-7068471689740158/6471678033",
-        "ironsource_app_key" : "1c9f6931d"
-      }
-    ],
       "auto_complete_songs": [
         {
           "Id": "1",
