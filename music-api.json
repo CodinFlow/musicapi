@@ -4,9 +4,9 @@
           "new_package_name": "null",
           "store_name": "Unknown",
           "send_update": false,
-          "ad_network": "IronSource",
-          "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-          "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+          "ad_network": "AdMob",
+          "admob_interstitial": "ca-app-pub-7758044232175604/5337825611",
+          "admob_banner": "ca-app-pub-7758044232175604/7397012746",
           "ironsource_app_key" : "1db0af31d"
         }
       ],
