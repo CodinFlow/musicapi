@@ -15,9 +15,9 @@
           "new_package_name": "null",
           "store_name": "Video+Downloader+-+Videoder+Official",
           "send_update": false,
-          "ad_network": "IronSource",
-          "admob_interstitial": "ca-app-pub-7068471689740158/6132177359",
-          "admob_banner": "ca-app-pub-7068471689740158/8758340697",
+          "ad_network": "AdMob",
+          "admob_interstitial": "ca-app-pub-7758044232175604/6279727419",
+          "admob_banner": "ca-app-pub-7758044232175604/9168780488",
           "ironsource_app_key" : "1db0af31d"
         }
       ],
@@ -26,9 +26,9 @@
           "new_package_name": "null",
           "store_name": "Ultimate+Video+Downloader+-+Media+Player",
           "send_update": false,
-          "ad_network": "IronSource",
-          "admob_interstitial": "ca-app-pub-7068471689740158/8205211893",
-          "admob_banner": "ca-app-pub-7068471689740158/5406877915",
+          "ad_network": "AdMob",
+          "admob_interstitial": "ca-app-pub-7758044232175604/4245973901",
+          "admob_banner": "ca-app-pub-7758044232175604/5852916653",
           "ironsource_app_key" : "1db0af31d"
         }
       ],
@@ -37,9 +37,9 @@
           "new_package_name": "null",
           "store_name": "Ultimate+Video+Downloader+-+Media+Player",
           "send_update": false,
-          "ad_network": "IronSource",
-          "admob_interstitial": "ca-app-pub-7068471689740158/8965262821",
-          "admob_banner": "ca-app-pub-7068471689740158/2873289310",
+          "ad_network": "AdMob",
+          "admob_interstitial": "ca-app-pub-7758044232175604/2340482406",
+          "admob_banner": "ca-app-pub-7758044232175604/4777291098",
           "ironsource_app_key" : "1db0af31d"
         }
       ],	
