@@ -69,9 +69,9 @@
         {
           "new_package_name": "null",
           "send_update": false,
-          "ad_network": "IronSource",
-          "admob_interstitial": "ca-app-pub-7068471689740158/8328937887",
-          "admob_banner": "ca-app-pub-7068471689740158/4603662900"
+          "ad_network": "AdMob",
+          "admob_interstitial": "ca-app-pub-7758044232175604/9212178366",
+          "admob_banner": "ca-app-pub-7758044232175604/4187647041"
         }
       ],	
       "auto_complete_songs": [
