@@ -48,9 +48,9 @@
           "new_package_name": "null",
           "store_name": "Ultimate+Video+Downloader+-+Media+Player",
           "send_update": false,
-          "ad_network": "IronSource",
-          "admob_interstitial": "ca-app-pub-7068471689740158/4240662174",
-          "admob_banner": "ca-app-pub-7068471689740158/4651687729",
+          "ad_network": "AdMob",
+          "admob_interstitial": "ca-app-pub-7758044232175604/9943370750",
+          "admob_banner": "ca-app-pub-7758044232175604/4889789979",
           "ironsource_app_key" : "1db0af31d"
         }
       ],	
