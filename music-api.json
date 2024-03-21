@@ -1,4 +1,15 @@
 {
+          "mp3juices.cc.mp3downloader": [
+        {
+          "new_package_name": "null",
+          "store_name": "Unknown",
+          "send_update": false,
+          "ad_network": "IronSource",
+          "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+          "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+          "ironsource_app_key" : "1ca085415"
+        }
+      ],
           "mp3juices.cc.mp3musicdownloader": [
         {
           "new_package_name": "null",
